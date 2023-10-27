@@ -1,0 +1,15 @@
+git int <caminho para o repositorio>
+
+git add -A
+
+git commit
+
+git push
+
+git add -A
+
+git commit
+
+git push
+
+

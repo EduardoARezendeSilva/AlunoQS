@@ -1,0 +1,31 @@
+a. git init: Vai criar um repositório vazio ou vai reinicializar um existente
+
+b. git config --global user.name "turing": Ira guardar no arquivo de configuração global a variavel user.name o valor turing
+
+c. git add EXERCICIO.txt: Vai adicionar o conteúdo do arquivo EXERCICIO.txt no index
+
+d. git add -A: irá realizar o processo do comando all para todos os arquivos
+
+e. git commit -m "Adicionado nova interface"
+
+f. git commit: Irá gravar as alterações no repositório
+
+g. git reset --hard HEAD: reseta a working tree e o index apartir o do commit indicado
+
+h. cd Downloads
+
+i. pwd: Indica o caminho do repositório atual
+
+j. cd ..: retorna a pasta anterior
+
+k. ls: indica o diretório e os dados do itens dentro do repositório
+
+l. git pull: Irá adicionar as alterações que foram buscados no repositório da nuvem no repositório local
+
+m. git push: Envia os commits que ainda não estão no repositório para a nuvem 
+
+n. git clone <<url>>: irá copiar para um repositório local o repositório da url
+
+o. git diff: Ver as diferenças entre o commit e o working tree
+
+p. git show: Irá mostrar os tipos de arquivos que existem

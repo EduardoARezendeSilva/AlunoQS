@@ -1,0 +1,7 @@
+cd <Local onde vai ficar o repositorio local>
+
+git clone <url do repositorio remoto>
+
+git log
+
+git show

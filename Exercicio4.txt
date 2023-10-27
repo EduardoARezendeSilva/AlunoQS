@@ -1,0 +1,11 @@
+a1. Working Tree: O diretório que está associado a um repositório no git
+
+a2. Working Area: Os arquivos que não são manipulados pelo git
+
+b1. Stage Area: O meio do caminho entre minha Working tree e o último commit
+
+b2. Commit: O conjunto de alterações que vão ser enviadas
+
+c. Local Repository:  O repositório na máquina local
+
+d. Remote Repository: Repositório remoto que 
